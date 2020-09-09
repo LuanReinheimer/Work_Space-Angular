@@ -7,4 +7,4 @@ Junto a isto temos uma API, e o servidor escrito em Node.js que disponibilizará
 Através do endereço http://localhost:8080/dados temos acesso a um JSON.
 Assim utilizaremos a API fetch que usa o padrão de projeto Promise.
 
-![alt text](https://github.com/LuanReinheimer/Work_Space-Angular/ProjetoControleListaProdutoscomTypeScript/ADR-AdicionareRemover/Projeto.jpg?raw=true)
+![alt text](https://raw.githubusercontent.com/LuanReinheimer/Work_Space-Angular/master/ProjetoControleListaProdutos%20com%20TypeScript/ADR%20-%20Adicionar%20e%20Remover/Projeto.JPG)
