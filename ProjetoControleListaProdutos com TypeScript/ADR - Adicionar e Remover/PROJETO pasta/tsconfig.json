@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "target": "es6", //  O codigo TypeScript ser traduzido em ES6
+        "outDir": "app/js", // resultado da compilacao do mundo JS
+        "noEmitOnError":true,
+        "noImplicitAny": true,
+        "removeComments": true,
+        "module":"System", // Pegar nossos sistema de modulos e adequar para o loader
+        "experimentalDecorators": true
+    },
+    "include": [
+        "app/ts/**/*" // indica quais os arquivos levar em consideracao na compilacao
+    ]
+}
